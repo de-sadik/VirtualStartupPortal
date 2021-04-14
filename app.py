@@ -246,6 +246,7 @@ def internSignup2():
 # intern dashboard
 @app.route("/dashboard")
 def internDash():
+    #comments
     # founder_id=session['id']
     # cursor = mysql.connection.cursor()
     # try:
